@@ -1,0 +1,94 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Settings API Boilerplate\n"
+"POT-Creation-Date: 2020-03-30 16:31+0200\n"
+"PO-Revision-Date: \n"
+"Language-Team: Vincent Dubroeucq <vincent@vincentdubroeucq.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin-menu.php:16 inc/admin-menu.php:17
+msgid "Top Level Settings Page"
+msgstr "Page de réglages de niveau supérieur"
+
+#: inc/admin-menu.php:28 inc/admin-menu.php:29
+msgid "Sub Level Settings Page"
+msgstr "Page de réglages de niveau 2"
+
+#: inc/multiple-settings.php:30
+msgid "Multiple settings section"
+msgstr "Section à plusieurs réglages"
+
+#: inc/multiple-settings.php:38
+msgid "Example text field"
+msgstr "Exemple de champ texte"
+
+#: inc/multiple-settings.php:50
+msgid "Example checkbox field"
+msgstr "Exemple de case à cocher"
+
+#: inc/multiple-settings.php:56
+msgid "This is a description of what the example checkbox does."
+msgstr "Il s’agit d’une description de ce que fait l'exemple de case à cocher."
+
+#: inc/multiple-settings.php:63
+msgid "Example radio field"
+msgstr "Exemple de champ radio"
+
+#: inc/multiple-settings.php:72
+msgid "Example select field"
+msgstr "Exemple de menu déroulant"
+
+#: inc/multiple-settings.php:78
+msgid "Select option 1"
+msgstr "Option du menu déroulant 1"
+
+#: inc/multiple-settings.php:79
+msgid "Select option 2"
+msgstr "Option du menu déroulant 2"
+
+#: inc/multiple-settings.php:80
+msgid "Select option 3"
+msgstr "Option du menu déroulant 3"
+
+#: inc/multiple-settings.php:88
+msgid "Example textarea field"
+msgstr "Exemple de champ zone de texte"
+
+#: inc/multiple-settings.php:147 inc/multiple-settings.php:150
+msgid "Radio button option 1"
+msgstr "Option du bouton radio 1"
+
+#: inc/multiple-settings.php:155
+msgid "Radio button option 2"
+msgstr "Option du bouton radio 2"
+
+#: inc/multiple-settings.php:160
+msgid "Radio button option 3"
+msgstr "Option du bouton radio 3"
+
+#: inc/multiple-settings.php:177
+msgid "Choose an option"
+msgstr "Choisissez une valeur"
+
+#: inc/single-setting.php:23
+msgid "Single setting section"
+msgstr "Section à réglage unique"
+
+#: inc/single-setting.php:31
+msgid "Single text field"
+msgstr "Champ texte simple"
