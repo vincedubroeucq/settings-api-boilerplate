@@ -31,7 +31,7 @@ function settings_boilerplate_single_setting(){
         __( 'Single text field', 'settings-boilerplate' ),     // Title
         'settings_boilerplate_single_setting_field_display',   // Callback to actually display the field's markup
         'settings_boilerplate_top_level_settings_page',        // Page
-        'settings_boilerplate_single_setting_section',         // Section
+        'settings_boilerplate_single_setting_section'          // Section
     );
 }
 

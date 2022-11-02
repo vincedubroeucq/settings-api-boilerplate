@@ -63,7 +63,7 @@ function settings_boilerplate_multiple_settings(){
         __( 'Example radio field', 'settings-boilerplate' ),             // Title
         'settings_boilerplate_multiple_settings_radio_field_display',    // Callback
         'settings_boilerplate_top_level_settings_page',                  // Page
-        'settings_boilerplate_multiple_settings_section',                // Section
+        'settings_boilerplate_multiple_settings_section'                 // Section
     );
 
     // Registers a select example
@@ -88,7 +88,7 @@ function settings_boilerplate_multiple_settings(){
         __( 'Example textarea field', 'settings-boilerplate' ),          // Title
         'settings_boilerplate_multiple_settings_textarea_field_display', // Callback
         'settings_boilerplate_top_level_settings_page',                  // Page
-        'settings_boilerplate_multiple_settings_section',                // Section
+        'settings_boilerplate_multiple_settings_section'                 // Section
     );
 }
 
